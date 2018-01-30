@@ -164,3 +164,14 @@ fabric.properties
 
 
 # End of https://www.gitignore.io/api/android,androidstudio
+.idea/runConfigurations.xml
+app/build.gradle
+app/libs/
+app/proguard-rules.pro
+app/src/
+build.gradle
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
