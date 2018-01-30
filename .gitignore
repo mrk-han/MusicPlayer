@@ -36,6 +36,6 @@ project.properties
 *.ipr
 *.iws
 
-# Gradle-based build
+# Gradle-based build test
 .gradle
 build/
